@@ -1,7 +1,8 @@
 # sv_joint_calling
 Calling of structural variants (SVs) in multiple samples with multiple callers and subsequent combination and filtering
 
-This is still work in progress and the functionality is currently split into three scripts that will be combined in the future
+This is still work in progress and the functionality is currently split into three hard-coded scripts.
+In the future this workflow will be combined and sample input via files will be added.
 
 ## jc_calling.py
 
